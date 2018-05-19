@@ -1,0 +1,18 @@
+Reading TrainLabels.csv file
+Completed reading .csv files
+Starting PCA
+Starting SVM
+ Training accuracy PCA : 
+1000
+0.945559322034
+ Testing accuracy PCA : 
+1000
+0.9475
+Starting RFC
+ Training accuracy PCA : 
+1000
+0.998745762712
+ Testing accuracy PCA : 
+1000
+0.7798
+Starting PCA
